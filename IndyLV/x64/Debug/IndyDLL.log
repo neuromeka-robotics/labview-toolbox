@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  IndyDLL.cpp
+  IndySocket.cpp
+  Utils.cpp
+  Generating Code...
+     Creating library D:\Neuromeka\R&D\LabVIEW\indydll\IndyDLL\x64\Debug\IndyDLL.lib and object D:\Neuromeka\R&D\LabVIEW\indydll\IndyDLL\x64\Debug\IndyDLL.exp
+  IndyDLL.vcxproj -> D:\Neuromeka\R&D\LabVIEW\indydll\IndyDLL\x64\Debug\IndyDLL.dll

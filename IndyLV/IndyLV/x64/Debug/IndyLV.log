@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  IndySocket.cpp
+d:\neuromeka\labview\indylv\indylv\indysocket.cpp(675): warning C4101: 'resData': unreferenced local variable
+  Utils.cpp
+  Generating Code...
+     Creating library D:\Neuromeka\LabVIEW\IndyLV\x64\Debug\IndyLV.lib and object D:\Neuromeka\LabVIEW\IndyLV\x64\Debug\IndyLV.exp
+  IndyLV.vcxproj -> D:\Neuromeka\LabVIEW\IndyLV\x64\Debug\IndyLV.dll
